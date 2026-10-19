@@ -1,0 +1,16 @@
+HBBS Cut Control – iPhone V002
+
+Dies ist eine installierbare Web-App (PWA), keine native IPA-Datei.
+
+INSTALLATION OHNE PC:
+1. Die Dateien dieses ZIP-Archivs müssen unverändert gemeinsam auf einer HTTPS-Webseite veröffentlicht werden (z. B. GitHub Pages).
+2. Die HTTPS-Adresse auf dem iPhone in Safari öffnen.
+3. Teilen > Zum Home-Bildschirm > Hinzufügen.
+4. Die App einmal vollständig online öffnen. Danach ist die Stammoptimierung durch den Service Worker offline nutzbar.
+
+WICHTIG:
+- Das ZIP direkt in der Dateien-App zu öffnen installiert KEINE PWA.
+- Diese Lieferung ist noch nicht im Internet veröffentlicht. Ohne HTTPS-Adresse ist die Installation nicht abgeschlossen.
+- Es handelt sich um einen Planungsprototypen, keine Maschinensteuerung. Geometrie und Schnittfolge vor der Fertigung prüfen.
+- Gespeicherte Eingaben liegen lokal auf dem jeweiligen iPhone und können beim Löschen von Websitedaten verloren gehen.
+- Die Raspberry-Pi-Version wird nicht verändert.
